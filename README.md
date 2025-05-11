@@ -502,15 +502,14 @@ The dashboard is structured into several key sections:
 
 ### Interactive Features
 
-The dashboard implements several interactive features to enhance user experience:
+The dashboard implements several interactive features:
 
-1. **Linked Visualizations**: All visualizations are linked, so selecting a game in one chart updates the information displayed in all other components.
 
-2. **Click-Through Details**: Users can click on any recommended game in the bar chart to see detailed information about that game.
+1. **Click-Through Details**: Users can click on any recommended game in the bar chart to see detailed information about that game.
 
-3. **Methodology Comparison**: The recommendation method selector allows users to dynamically compare results from different algorithms on the same game.
+2. **Methodology Comparison**: The recommendation method selector allows users to dynamically compare results from different algorithms on the same game.
 
-4. **Highlight Mode**: In the scatter plot, recommended games are highlighted in red against the backdrop of all games in gray, providing context for where recommendations fall in the overall distribution.
+3. **Highlight Mode**: In the scatter plot, recommended games are highlighted in red against the backdrop of all games in gray, providing context for where recommendations fall in the overall distribution.
 
 ### Visualization Types
 
@@ -527,3 +526,9 @@ I employed various visualization techniques to present different aspects of the 
 These visualizations collectively provide a multi-faceted view of the recommendation results, helping users understand not just what games are recommended but also why they were recommended and how they relate to the broader game ecosystem.
 ![alt text](<Screenshot 2025-05-11 at 23.35.28.png>)
 ![alt text](<Screenshot 2025-05-11 at 23.38.29.png>)
+
+### Acknowledgement of Authorship
+I have used some external resources for this project, namely the Steam dataset from Julian McAuley's repository, which is publicly available for academic use. In general, I used in-class documents along with a little help from LLMs to implement the programs together, and guide me through the dashboard implementation.
+
+#### References
+- J. McAuley, C. Targett, Q. Shi, and A. van den Hengel, "Image-based recommendations on styles and substitutes," in Proceedings of the 38th International ACM SIGIR Conference on Research and Development in Information Retrieval, 2015.
