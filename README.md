@@ -239,7 +239,6 @@ Beyond basic vectorization, I implemented several feature engineering techniques
 
 2. **Gaming-Specific Features**:
    - Custom gaming dictionary to identify mentions of specific game elements
-   - Detection of temporal markers (reference to game as "early access" vs. full release)
    - Analysis of technical terms (graphics, performance) vs. gameplay terms
 
 3. **Metadata Integration**:
