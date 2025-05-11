@@ -315,7 +315,6 @@ class CollaborativeRecommender:
         self.factors = factors
         self.iterations = iterations
         self.model = None
-        # ...initialization code...
         self.prepare_data()
         
     def train_model(self):
