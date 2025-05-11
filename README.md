@@ -525,3 +525,5 @@ I employed various visualization techniques to present different aspects of the 
 4. **Scatter Plot**: For contextualizing recommended games within the broader dataset distribution.
 
 These visualizations collectively provide a multi-faceted view of the recommendation results, helping users understand not just what games are recommended but also why they were recommended and how they relate to the broader game ecosystem.
+![alt text](<Screenshot 2025-05-11 at 23.35.28.png>)
+![alt text](<Screenshot 2025-05-11 at 23.38.29.png>)
