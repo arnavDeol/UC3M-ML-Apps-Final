@@ -1,0 +1,9 @@
+/.DS_Store
+/AML_Proy_Final202403.pdf
+/__pycache__
+/data
+/models
+/processed_data
+/rec.ipynb
+/recommendations
+/recommender.py
